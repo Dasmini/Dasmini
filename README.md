@@ -1,19 +1,9 @@
 # Hi there, I'm Dasmini 👋
 
-```
-while (alive)
-{
-    learn();
-    build();
-    solve();
-    gratitude()
-}
-```
-
 ### 🚀 About Me
 
 * 💻 Exploring **Embedded Systems** and **C Programming**
-* 🧠 Fascinated by **how things work** — from computer memory to the human brain
+* 🧠 Fascinated by **how things work** from computer memory to the human brain
 * 📊 Learning languages
 * 🌱 Currently mastering:
 
