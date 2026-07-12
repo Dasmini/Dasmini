@@ -66,6 +66,8 @@ Data Structures
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dasmini\&layout=compact)
 
+[My Streak](https://git.io/streak-stats)
+
 ---
 
 ## 🔥 Current Focus
