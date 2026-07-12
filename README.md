@@ -62,9 +62,7 @@ Data Structures
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dasmini\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dasmini\&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Dasmini)](https://git.io/streak-stats)
 
 ---
 
