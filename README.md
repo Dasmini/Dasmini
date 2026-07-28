@@ -39,22 +39,9 @@
 
 ---
 
-## 📚 Currently Learning
-
-```text
-Memory Management
-Pointers
-Function Pointers
-Command Line Arguments
-Embedded C
-Data Structures
-```
-
----
-
 ## 🌟 Philosophy
 
-> workin on dat!
+> Consistency unlocks potential you didn't even know you had! 🔓✨
 ---
 
 ## 📈 GitHub Stats
@@ -67,7 +54,6 @@ Data Structures
 
 * Building C projects
 * Embedded Systems
-* Open Source
 * Clean Code
 * Problem Solving
 
@@ -85,5 +71,3 @@ Somehow they both teach the same lesson!
 ---
 
 ### Thanks for stopping by! ⭐
-
-</>
