@@ -2,7 +2,7 @@
 
 ### About Me
 
-* I'm an engineer who likes understanding what happens behind the scenes.**
+* I'm an engineer who likes understanding what happens behind the scenes.
 * Fascinated by **how things work** from computer memory to the human brain
 * Currently, I'm spending most of my time with C, data structures, pointers, memory, and embedded systems. Basically trying to get a little closer to the hardware.
 * Goal: Build technology that solves real-world problems
