@@ -1,73 +1,61 @@
-# Hi there, I'm Dasmini 👋
+# Hi there, I'm Dasmini
 
-### 🚀 About Me
+### About Me
 
-* 💻 Exploring **Embedded Systems** and **C Programming**
-* 🧠 Fascinated by **how things work** from computer memory to the human brain
-* 📊 Learning languages
-* 🌱 Currently mastering:
-
-  * Advanced C
-  * Data Structures
-  * Embedded Programming
-* 🎯 Goal: Build technology that solves real-world problems
+* I'm an engineer who likes understanding what happens behind the scenes.**
+* Fascinated by **how things work** from computer memory to the human brain
+* Currently, I'm spending most of my time with C, data structures, pointers, memory, and embedded systems. Basically trying to get a little closer to the hardware.
+* Goal: Build technology that solves real-world problems
 
 ---
+## What I'm working on
 
-### Wanna know what I am doing?
-[look here](https://github.com/Dasmini/C-Learning-Journal)
+- Learning Embedded C and low-level programming
+- Getting deeper into pointers, memory management and data structures
+- Exploring microcontrollers, drivers and communication protocols
+- Building projects that make me understand why things work, not just how to make them work
 
-## 🛠 Tech Stack
+## Tech I'm familiar with
 
 ### Languages
+C · SQL · JavaScript
 
-* C
-* JavaScript
+### Embedded Systems
+Embedded C · Data Structures · Memory Management · Git
 
-### Frontend
-
-* HTML
-* CSS
+### Data & Analytics
+Power BI · DAX · Power Query · Excel · SQL
 
 ### Tools
 
 * Git
 * GitHub
 * VS Code
-* Linux
 * WSL
 
 ---
 
-## 🌟 Philosophy
+## Philosophy
 
-> Consistency unlocks potential you didn't even know you had! 🔓✨
+> Consistency unlocks potential you didn't even know you had! ✨
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Dasmini)](https://git.io/streak-stats)
 
 ---
 
-## 🔥 Current Focus
-
-* Building C projects
-* Embedded Systems
-* Clean Code
-* Problem Solving
-
----
-
-## ⚡ Fun Fact
+## Fun Fact
 
 I enjoy learning things that seem completely unrelated until they unexpectedly connect.
 
-One day it's pointers in C.
+One day it's dynamic memory allocation.
 The next it's neuroscience.
 Somehow they both teach the same lesson!
 **Everything makes more sense when you understand what happens underneath.**
 
 ---
 
-### Thanks for stopping by! ⭐
+Feel free to explore my repositories.
+Some are polished. Some are experiments. All of them are part of the learning process.
